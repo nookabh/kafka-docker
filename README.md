@@ -1,12 +1,7 @@
 
 # kafka-docker
 
-Dockerfile for [Apache Kafka](http://kafka.apache.org/)
 
-The image is available directly from [Verizon Artifactory]
-```
-Docker pull oneartifactory.verizon.com:445/f18v_sfdc/kafka:latest
-```
 
 ## Pre-Requisites
 
